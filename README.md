@@ -1,5 +1,4 @@
-ails Girls Guides
-Rails Girls
+Rails Girls Guides 
 
 The purpose of Rails Girls is to give tools for women to understand technology. The Rails Girls events do this by providing a great first experience on building the Internet.
 
